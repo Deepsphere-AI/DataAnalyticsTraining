@@ -1,0 +1,23 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Day 1 - Lab 1 -Assigning Values to Variables
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#!/usr/bin/python
+vAR_counter = 100          # An integer assignment
+vAR_miles   = 1000.0       # A floating point
+vAR_name    = "Jothi"      # A string
+
+print(vAR_counter)
+print (vAR_miles)
+print (vAR_name)
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Day 1 - Lab 1 -Prompting user for input
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+vAR_counter = input("Enter variable value - int =>> ")
+vAR_miles   = input("Enter variable value - float =>> ")
+vAR_name    = input("Enter variable value - string =>> ")
+
+print(vAR_counter)
+print (vAR_miles)
+print (vAR_name)

@@ -1,0 +1,11 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Day 1 - Lab 2 -Multiple Assignment
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+vAR_a = vAR_b = vAR_c = 1
+
+print(vAR_a,vAR_b,vAR_c)
+
+vAR_a,vAR_b,vAR_c = 1,2,"john"
+
+print(vAR_a,vAR_b,vAR_c)
